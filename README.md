@@ -7,7 +7,7 @@
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
 
 ### 1. Register yourself for Hacktoberfest
-###### Link to register: https://hacktoberfest.digitalocean.com/
+###### Link to register: https://hacktoberfest.digitalocean.com
 Click on "Start Hacking" and add your GitHub account.
 
 ![Screenshot-HFST](https://user-images.githubusercontent.com/22788214/66115214-0166c400-e5ee-11e9-9659-1ef73e30e2b5.png)
@@ -19,7 +19,7 @@ Click on "Start Hacking" and add your GitHub account.
 
 GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name. For example, acmbvp is the owner of the Hacktoberfest repository, so the GitHub URL for this project is:
 
-https://github.com/acmbvp/Hacktoberfest/
+https://github.com/premnathdey/hacktoctoberfest2020
 
 
 ![screenshot-star](https://user-images.githubusercontent.com/37223446/47229499-79d87300-d3e5-11e8-9f2f-84e0d49e0439.png)
