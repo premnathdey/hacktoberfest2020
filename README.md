@@ -10,7 +10,10 @@
 ###### Link to register: https://hacktoberfest.digitalocean.com
 Click on "Start Hacking" and add your GitHub account.
 
-![Screenshot-HFST](https://user-images.githubusercontent.com/22788214/66115214-0166c400-e5ee-11e9-9659-1ef73e30e2b5.png)
+![Screenshot-HFST](https://user-images.githubusercontent.com/36821368/94888822-ded4e880-0497-11eb-938a-b655f129bcac.png)
+
+![Screenshot-HFST](https://user-images.githubusercontent.com/36821368/94888842-f14f2200-0497-11eb-8ba1-9ee164170bf7.png)
+
 
 
 
