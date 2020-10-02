@@ -54,7 +54,7 @@ Once we have the URL, we’re ready to clone the repository. To do this, we’ll
 
 To create your branch, from your terminal window, change your directory so that you are working in the directory of the repository. Be sure to use the actual name of the repository (i.e. Hacktoberfest) to switch into that directory.
 
-#####    `cd Hacktoberfest`
+#####    `cd hacktoctoberfest2020`
 
 Now, we’ll create our new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 
@@ -112,7 +112,7 @@ We’ll first go over configuring a remote for the fork, then syncing the fork.
 
 Next up, you’ll have to specify a new remote upstream repository for us to sync with the fork. This will be the original repository that you forked from. you’ll have to do this with the git remote add command.
 
-##### ` git remote add upstream https://github.com/acmbvp/Hacktoberfest.git `
+##### ` git remote add upstream https://github.com/premnathdey/hacktoctoberfest2020 `
 
 
 ![screenshot 74](https://user-images.githubusercontent.com/37223446/47235672-5f0efa00-d3f7-11e8-9e45-1af02d8b969b.png)
